@@ -1,0 +1,6 @@
+{
+  "name": "PCG.OS - Legal Operating System",
+  "description": "Sistema de gestão jurídica, operacional e estratégica para advocacia corporativa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

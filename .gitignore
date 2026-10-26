@@ -1,0 +1,20 @@
+node_modules/
+.next/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Private/runtime data
+database.json
+firebase-applet-config.json
+firebase-export*/
+migration-dry-run*/
+tmp-*.sql
+*.tsbuildinfo
+.openai/
+.sites-runtime/
+.wrangler/
+dist/
+build/
